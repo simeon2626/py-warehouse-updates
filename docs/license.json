@@ -1,5 +1,0 @@
-{
-  "client": "Py-Warehouse",
-  "expires": "2025-07-31",
-  "features": ["stock","issue","catalogs"]
-}
